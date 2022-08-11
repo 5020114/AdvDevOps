@@ -1,0 +1,10 @@
+Container orchestration using kubernetes
+1. What is diff in traditional virtualised and container deployment?
+2. What is container orchestration?
+3. Identify platform through which you will deploy container and orchestration 
+	tools required?
+4. Are docker & kubernetes dependent on each other? Compare & contrast the
+	ideas
+5. What if container are damaged will I be able to retrieve my data? How will
+	I ensure that I retrieve my data? State your views
+6. Explain the imp. of Ingress in Kubernetes?
